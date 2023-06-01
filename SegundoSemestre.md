@@ -1,5 +1,5 @@
 # Actividades Segundo Semestre
-![image]([Diagramas%20de%20Clase/UdeC_2L_Blanco.png](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/UdeC_2L_Blanco.png))
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/UdeC_2L_Blanco.png)
 ### Jiménez Cisneros Ángel Abdiel ICI 2°B
 
 
@@ -11,7 +11,7 @@
 #### 19 / ABRIL / 2023
 ---
 
-![](Diagramas%20de%20Clase/19-04-2023%20DDC.jpg)
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/19-04-2023%20DDC.jpg)
 
 #### main.dart
 
@@ -47,7 +47,7 @@ class Estudiante {
 
 #### 20 / ABRIL / 2023
 ---
-![](Diagramas%20de%20Clase/20-04-2023%20DDC.jpg)
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/20-04-2023%20DDC.jpg)
 
 #### main.dart
 
@@ -124,7 +124,7 @@ class Persona {
 
 #### "26" /ABRIL / 2023
 
-![](Diagramas%20de%20Clase/26-04-2023%20DDC.jpg)
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/26-04-2023%20DDC.jpg)
 
 #### main.dart
 ````
@@ -226,7 +226,7 @@ class Figura {
 #### 27 / ABRIL / 2023
 ---
 
-![](27-04-2023%20main1.jpg)
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/27-04-2023%20main1.jpg)
 
 #### main.dart  (main1)
 
@@ -281,7 +281,7 @@ class Shape {
 
 #### main2.dart (main2)
 
-![](27-04-2023%20main2.jpg)
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/27-04-2023%20main2.jpg)
 
 ````
 import 'Vehicle.dart';
@@ -376,7 +376,7 @@ class Vehicle {
 
 #### 03 / MAYO / 2023
 ---
-![](Diagramas%20de%20Clase/03-05-2023%20DDC.jpg)
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/03-05-2023%20DDC.jpg)
 
 #### main.dart
 
@@ -486,7 +486,7 @@ class Animal {
 #### 04 / MAYO / 2023
 ---
 
-![](Diagramas%20de%20Clase/04-05-2023%20DDC.jpg)
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/04-05-2023%20DDC.jpg)
 
 #### main.dart
 
@@ -628,7 +628,7 @@ class Vaca extends Animal {
 #### 17 / MAYO / 2023
 ---
 
-![](17-05-2023.jpg)
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/17-05-2023.jpg)
 
 
 #### main.dart
@@ -794,7 +794,7 @@ class Motocicleta extends Vehiculo {
 #### 18 / MAYO / 2023
 ---
 
-![](Diagramas%20de%20Clase/18-05-2023%20DDC.jpg)
+![image](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/18-05-2023%20DDC.jpg)
 
 #### main.dart "Mixins"
 
