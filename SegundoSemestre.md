@@ -1,5 +1,5 @@
 # Actividades Segundo Semestre
-![](Diagramas%20de%20Clase/UdeC_2L_Blanco.png)
+![image]([Diagramas%20de%20Clase/UdeC_2L_Blanco.png](https://github.com/Abdiel-Cisneros/Programacion-orientada-a-objetos-Dart/blob/main/UdeC_2L_Blanco.png))
 ### Jiménez Cisneros Ángel Abdiel ICI 2°B
 
 
